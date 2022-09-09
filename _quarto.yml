@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  favicon: imgs/favicon.jpeg
+  title: "Heitor Ramos"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - teaching.qmd
+      # - talks.qmd
+      - students.qmd
+      - contact.qmd
+
+  page-footer:
+      left: "© 2022 Heitor Ramos"
+      center: "powered by [quarto](https://quarto.org)"
+      right:
+        - text: <i class="ai ai-google-scholar" role="img"></i>
+          href: https://scholar.google.de/citations?user=MFlgHdcAAAAJ&hl=en
+        - text: <i class="ai ai-orcid" role="img"></i>
+          href: https://orcid.org/0000-0003-2952-4812
+        - text: <i class="ai ai-researcherid" role="img"></i> 
+          href: https://www.webofscience.com/wos/author/record/C-7790-2009 
+        - text: <i class="ai ai-lattes" role="img"></i>
+          href: http://lattes.cnpq.br/4978869867640619
+        - icon: twitter
+          href: https://twitter.com/schochastics
+        - icon: linkedin
+          href: https://www.linkedin.com/in/heitorsramos/
+format:
+  html:
+    theme: cosmo
+    css: 
+      - styles.css
+      - academicons.css
+    toc: true
+execute:
+  freeze: auto
+

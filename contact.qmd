@@ -1,0 +1,30 @@
+---
+title: "Contact"
+about:
+  id: hero-heading
+  template: marquee
+  image: imgs/contact.jpeg
+  links:
+    - text: <i class="ai ai-google-scholar" role="img"></i> Google Scholar
+      href: https://scholar.google.de/citations?user=MFlgHdcAAAAJ&hl=en
+    - text: <i class="ai ai-orcid" role="img"></i> OrcID
+      href: https://orcid.org/0000-0003-2952-4812
+    - text: <i class="ai ai-lattes" role="img"></i> Lattes CV
+      href: http://lattes.cnpq.br/4978869867640619
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/schochastics
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/heitorsramos/
+---
+
+
+<i class="bi bi-envelope"></i> Av. Antônio Carlos 6627 - Prédio do ICEx - Pampulha, Belo Horizonte, MG 31270-010
+
+<i class="bi bi-building"></i> ICEx/DCC Building, Office: 6309
+
+<i class="bi bi-at"></i> [Email me](mailto:ramosh@dcc.ufmg.br)
+
+<i class="bi bi-telephone"></i>+55 (31) 3409-5860
+

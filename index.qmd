@@ -1,0 +1,59 @@
+---
+title: "Biography"
+about:
+  template: solana
+  image: imgs/profile.jpg
+  links:
+    - text: <i class="ai ai-lattes" role="img"></i> Lattes CV
+      href: http://lattes.cnpq.br/4978869867640619      
+    - text: <i class="ai ai-orcid" role="img"></i> OrcID
+      href: https://orcid.org/0000-0003-4523-6466
+    - text: <i class="ai ai-researcherid" role="img"></i> Web of Science
+      href: https://www.webofscience.com/wos/author/record/C-7790-2009 
+    - text: <i class="ai ai-google-scholar" role="img"></i> GScholar
+      href: https://scholar.google.com.br/citations?user=j2AOTsAAAAAJ&hl=en
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/heitorsramos/
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/heitor_ramos
+---
+
+Heitor Ramos is an associate Computer Science Professor currently working with the Federal University of Minas Gerais, Brazil, with 10+ years of experience in teaching Computer Science classes, advising graduate students, and coordinating R\&D projects. His main research interests are  Federated Learning, Data Analysis for the Internet of Things, Sensor Networks, Social Networks, and Urban Computing applications.  He has been an active member of the scientific community, where he published 70+ scientific papers in top-class conferences and periodicals and 1 USPTO patent. He also has been advising 10+ graduate students and 16+ undergrad projects.
+
+
+## Education
+
+<i class="bi bi-mortarboard"></i> Federal University of Minas Gerais (UFMG), Belo Horizonte | Minas Gerais, BR
+Ph.D in Computer Science | Mar 2008 - Ago 2012
+
+<i class="bi bi-mortarboard"></i> Federal University of Alagoas (UFAL), Maceió | Alagoas, BR
+M.Sc. in Computing Modeling | Mar 2004 - Jan 2006
+
+<i class="bi bi-mortarboard"></i> Federal University of Paraíba (UFPB), Campina Grande | Paraíba, BR
+B.Sc. in Electrical Engineering | Mar 1992 - Mar 1997
+
+## Experience
+
+<i class="bi bi-asterisk"></i> **Federal University of Minas Gerais, BR (DCC/UFMG) | Associate Professor of Computer Science |  2019 - present**
+
+
+The deparment of Computer Science of the Universidade Federal de Minas Gerais is a top-class Computer Science department that runs one of the most traditional graduate program in Brazil. It was evaluated with level 7 (which is the highest) by CAPES (the Brazilian Federal Agency for Support and Evaluation of Graduate Education). I have been teaching classes such as Computer Networks, introduction to programming, and Urban Computing in graduate and undergraduate level.
+
+<i class="bi bi-asterisk"></i> **Federal University of Alagoas, BR (UFAL) | Associate Professor of Computer Science |  2012 - 2019**
+
+I taught classes on Data Analysis, Computer Networks, Statistics, Discrete Mathematics and Analysis of Algorithms, in graduate and undergraduate levels. I advised 7 graduate students and 16 undergrad projects. I was the dean of the graduate program of Computing Modeling for 1 year and the vice-president of the Computing Institute (IC/UFAL) for 1 year. I was involved in the approval of US$ 600K in projects funded by research agencies in Brazil.
+
+<i class="bi bi-asterisk"></i> **Paradise Laboratory - Ottawa University, CA | Ph.D Intern | 2010 - 2011**
+
+I worked on subjects related to how to improve the communication of vehicular networks. The results of this work were published in 3 International conferences (IEEE ICC'12, ACM PE-WASUN'11, IEEE ICNC'12,  and 1 periodical (IEEE Wireless Communication Magazine).
+
+<i class="bi bi-asterisk"></i> **Microsoft Research, Redmond, USA | Ph.D Intern | 2010 - 2010**
+
+LEAP: A Low Energy Assisted GPS for trajectory-based Services: 
+In this project, we take a deep look at the principle and processing stages of GPS receivers and propose a new operation mode for mobile GPS sensing, called Low Energy Assisted Positioning (LEAP). LEAP showed to be a suitable solution for very low-energy GPS with block-level accuracy. The results of this project were published in 2 conferences (ACM Sensys'12 and ACM Ubicomp'11), a journal (IEEE Trans. on Mobile Computing), and a patent registered at USPTO, and received the best paper award of Sensys'12 conference.
+
+<i class="bi bi-asterisk"></i> **Federal University of Alagoas, BR (UFAL) | Lecturer of Computer Science | 2006 - 2008**
+
+<i class="bi bi-asterisk"></i> **Federal University of Alagoas, BR | Lecturer of Computer Science | 2006 - 2008**

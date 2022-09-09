@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Heitor Ramos - Álgebra Linear Computacional</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./imgs/favicon.jpeg" rel="icon" type="image/jpeg">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="academicons.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Heitor Ramos</span>
+  </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">Home</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html">Research</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching.html">Teaching</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./students.html">Students</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html">Contact</a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#informações-sobre-o-curso" id="toc-informações-sobre-o-curso" class="nav-link active" data-scroll-target="#informações-sobre-o-curso">Informações sobre o curso</a></li>
+  <li><a href="#horário-e-sala" id="toc-horário-e-sala" class="nav-link" data-scroll-target="#horário-e-sala">Horário e sala</a></li>
+  <li><a href="#ementa" id="toc-ementa" class="nav-link" data-scroll-target="#ementa">Ementa</a></li>
+  <li><a href="#objetivos" id="toc-objetivos" class="nav-link" data-scroll-target="#objetivos">Objetivos</a></li>
+  <li><a href="#cronograma" id="toc-cronograma" class="nav-link" data-scroll-target="#cronograma">Cronograma</a></li>
+  <li><a href="#dinâmica" id="toc-dinâmica" class="nav-link" data-scroll-target="#dinâmica">Dinâmica</a></li>
+  <li><a href="#avaliação-de-aprendizagem" id="toc-avaliação-de-aprendizagem" class="nav-link" data-scroll-target="#avaliação-de-aprendizagem">Avaliação de Aprendizagem</a></li>
+  <li><a href="#material-de-apoio" id="toc-material-de-apoio" class="nav-link" data-scroll-target="#material-de-apoio">Material de apoio</a></li>
+  <li><a href="#bibliografia" id="toc-bibliografia" class="nav-link" data-scroll-target="#bibliografia">Bibliografia</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Álgebra Linear Computacional</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="informações-sobre-o-curso" class="level2">
+<h2 class="anchored" data-anchor-id="informações-sobre-o-curso">Informações sobre o curso</h2>
+<ul>
+<li>Curso sobre a teoria, as aplicações e as considerações práticas de se implementar e executar operações matriciais em computadores usando dados reais
+<ul>
+<li>Foco: como realizar cálculos matriciais com velocidade e precisão aceitáveis?</li>
+</ul></li>
+<li>É o mesmo que “Análise Numérica”, só mudou o nome?
+<ul>
+<li>Não, embora alguns tópicos da ementa sejam comuns</li>
+</ul></li>
+<li>É álgebra linear avançada?
+<ul>
+<li>Não, alguns conceitos de AL serão revisados ao longo do semestre</li>
+<li>Eu diria que é mais próximo de uma Álgebra Linear aplicada à Computação</li>
+</ul></li>
+</ul>
+</section>
+<section id="horário-e-sala" class="level2">
+<h2 class="anchored" data-anchor-id="horário-e-sala">Horário e sala</h2>
+<ul>
+<li>Turmas: TTZ1, TN1 e TN</li>
+<li>Terças e quintas das 14:55 às 16:35</li>
+<li>Sala 2013</li>
+</ul>
+</section>
+<section id="ementa" class="level2">
+<h2 class="anchored" data-anchor-id="ementa">Ementa</h2>
+<p>Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposição SVD. Condicionamento. Decomposição QR. Tópicos em análise numérica.</p>
+</section>
+<section id="objetivos" class="level2">
+<h2 class="anchored" data-anchor-id="objetivos">Objetivos</h2>
+<ul>
+<li>Revisar conceitos fundamentais de Álgebra Linear</li>
+<li>Fornecer ao aluno métodos necessários à resolução numérica de problemas que envolvam decomposição de matrizes</li>
+<li>Familiarizar e motivar o aluno com aplicações práticas em computação dos métodos vistos ao longo do curso</li>
+<li>Manipular dados em um ambiente científico</li>
+</ul>
+</section>
+<section id="cronograma" class="level2">
+<h2 class="anchored" data-anchor-id="cronograma">Cronograma</h2>
+<table class="table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">Aula</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">23/08/22</td>
+<td style="text-align: left;"><a href="http://www.dcc.ufmg.br/~ramosh/aulas/ALC/Aula01.html">Vetores, Matrizes, Espaços Vetoriais e Espaço Coluna</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">25/08/22</td>
+<td style="text-align: left;"><a href="http://www.dcc.ufmg.br/~ramosh/aulas/ALC/Aula02.html">Multiplicando e Fatorando Matrizes</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">30/08/22</td>
+<td style="text-align: left;"><a href="http://www.dcc.ufmg.br/~ramosh/aulas/ALC/Aula03.html">Quatro subspaços fundamentais</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">01/09/22</td>
+<td style="text-align: left;"><a href="http://www.dcc.ufmg.br/~ramosh/aulas/ALC/Aula04.html">Autovalores e Autovetores</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">06/09/22</td>
+<td style="text-align: left;"><a href="http://www.dcc.ufmg.br/~ramosh/aulas/ALC/Aula05.html">Matrizes ortogonais</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">08/09/22</td>
+<td style="text-align: left;">Normas de Vetores e Matrizes</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">13/09/22</td>
+<td style="text-align: left;">Introdução a Sistemas Lineares / Sistemas Triangulares</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">15/09/22</td>
+<td style="text-align: left;">Eliminação de Gauss</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">20/09/22</td>
+<td style="text-align: left;">Decomposição LU</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">22/09/22</td>
+<td style="text-align: left;">Decomposição de Cholesky</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">11</td>
+<td style="text-align: center;">27/09/22</td>
+<td style="text-align: left;">Decomposição Espectral e Matrizes Definidas Positivas e Semidefinidas</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">29/09/22</td>
+<td style="text-align: left;">Uso da decomposição</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">13</td>
+<td style="text-align: center;">04/10/22</td>
+<td style="text-align: left;">Métodos Iterativos Estacionários</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">14</td>
+<td style="text-align: center;">06/10/22</td>
+<td style="text-align: left;">Métodos Iterativos Estacionários II</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">11/10/22</td>
+<td style="text-align: left;">Análise de erro na solução de sistemas</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">16</td>
+<td style="text-align: center;">13/10/22</td>
+<td style="text-align: left;"><span class="vermelho">Prova 1</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">17</td>
+<td style="text-align: center;">18/10/22</td>
+<td style="text-align: left;">Regressão Linear</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">20/10/22</td>
+<td style="text-align: left;">Regressão Linear II</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">19</td>
+<td style="text-align: center;">25/10/22</td>
+<td style="text-align: left;">Regressão Linear Múltipla</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">27/10/22</td>
+<td style="text-align: left;">Mínimos quadrados e coeficiente de determinação</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">21</td>
+<td style="text-align: center;">01/11/22</td>
+<td style="text-align: left;">Decomposição QR</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">22</td>
+<td style="text-align: center;">03/11/22</td>
+<td style="text-align: left;">Ajuste via Decomposição em Valores Singulares</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">23</td>
+<td style="text-align: center;">08/11/22</td>
+<td style="text-align: left;">Page Rank</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">24</td>
+<td style="text-align: center;">10/11/22</td>
+<td style="text-align: left;">Decomposição em valores Singulares</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">17/11/22</td>
+<td style="text-align: left;">SVD e aproximação de matrizes</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">26</td>
+<td style="text-align: center;">22/11/22</td>
+<td style="text-align: left;">PCA I</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">27</td>
+<td style="text-align: center;">24/11/22</td>
+<td style="text-align: left;">PCA II</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">28</td>
+<td style="text-align: center;">29/11/22</td>
+<td style="text-align: left;">Removendo Viés de word Embeddings com PCA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">29</td>
+<td style="text-align: center;">01/12/22</td>
+<td style="text-align: left;"><span class="vermelho">Prova 2</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">30</td>
+<td style="text-align: center;">06/12/22</td>
+<td style="text-align: left;">Prova suplementar</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">31</td>
+<td style="text-align: center;">13/12/22</td>
+<td style="text-align: left;">Exame Especial</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dinâmica" class="level2">
+<h2 class="anchored" data-anchor-id="dinâmica">Dinâmica</h2>
+<ul>
+<li>Aulas téóricas e alguns exemplos de aplicação dos conceitos</li>
+</ul>
+</section>
+<section id="avaliação-de-aprendizagem" class="level2">
+<h2 class="anchored" data-anchor-id="avaliação-de-aprendizagem">Avaliação de Aprendizagem</h2>
+<ul>
+<li>Prova 1 (30 pontos)</li>
+<li>Prova 2 (30 pontos)</li>
+<li>Listas de exercícios teóricos e de programação (40 pontos) (a serem entregues ao longo do semestre)</li>
+</ul>
+</section>
+<section id="material-de-apoio" class="level2">
+<h2 class="anchored" data-anchor-id="material-de-apoio">Material de apoio</h2>
+<ul>
+<li>Moodle (slides e outros materiais)</li>
+<li>Vídeos</li>
+<li>Software: Python</li>
+</ul>
+</section>
+<section id="bibliografia" class="level2">
+<h2 class="anchored" data-anchor-id="bibliografia">Bibliografia</h2>
+<ul>
+<li>Trefethen, L. N. &amp; Bau III, D. Numerical Linear Algebra. Vol. 50. SIAM, 1997</li>
+<li>Strang, Gilbert. Linear Algebra and Learning from Data. Wellesley-Cambridge Press, 2019.</li>
+<li>Ferreira Campos, filho, Frederico. Algoritmos Numéricos: uma abordagem moderna de Cálculo Numérico. 3a Edição. LCT, 2018.</li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">© 2022 Heitor Ramos</div>   
+      <div class="nav-footer-center">powered by <a href="https://quarto.org">quarto</a></div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://scholar.google.de/citations?user=MFlgHdcAAAAJ&amp;hl=en"><i class="ai ai-google-scholar" role="img"></i></a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://orcid.org/0000-0003-2952-4812"><i class="ai ai-orcid" role="img"></i></a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://www.webofscience.com/wos/author/record/C-7790-2009"><i class="ai ai-researcherid" role="img"></i></a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="http://lattes.cnpq.br/4978869867640619"><i class="ai ai-lattes" role="img"></i></a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/schochastics">
+      <i class="bi bi-twitter" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/heitorsramos/">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>

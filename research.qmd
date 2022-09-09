@@ -1,0 +1,32 @@
+---
+title: "Research"
+---
+
+### Main research interests 
+
+- Federated Learning
+- Internet of Things
+- Sensor networks (WSN)
+- Urban Computing
+- Time Series Mining
+
+### Publications
+Check my updated publication list on
+
+* <i class="ai ai-google-scholar" role="img"></i> [Google Scholar](https://scholar.google.com.br/citations?user=j2AOTsAAAAAJ&hl=en)
+
+* <i class="ai ai-lattes" role="img"></i> [Lattes CV](http://lattes.cnpq.br/4978869867640619 )
+
+* <i class="ai ai-orcid" role="img"></i> [OrcID](https://orcid.org/0000-0003-4523-6466)
+
+* <i class="ai ai-researcherid" role="img"></i> [Web of Science](https://www.webofscience.com/wos/author/record/C-7790-2009)
+
+#### Projects
+- Inteligência artificial aplicada à exploração de petróleo na camada pré-sal (Petrobras/Cenpes)
+- Dense Labeling of Remote Sensing Images in the Wild (Serrapilheira)
+- Análise de dados heterogêneos em computação urbana (Fapesp)
+- Inteligência Artificial como ferramenta de auxílio ao diagnóstico de Leishmaniose Visceral (PPSUS/Fapeal)
+- CAD-COVID-19: Monitoramento e Auxílio ao Diagnóstico de Pacientes com COVID-19 Usando Radiografias Torácicas e Deep Learning (Fapemig)
+- Mobilidade na Computação Urbana: Caracterização, Modelagem e Aplicações (MOBILIS) (Fapesp)
+- Projeto de Serviços e Aplicações para IoT (Fapesp)
+- Amostragem de dados em redes de sensores sem fio: integração de aplicações e ferramentas (CNPq)

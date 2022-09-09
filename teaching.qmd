@@ -1,0 +1,14 @@
+---
+title: "Teaching"
+---
+
+### Current courses
+- Algebra Linear Computacional ([2022.1](alc.qmd))
+- Programação e Desenvolvimento de Software I (2022.1 | 2021.2 | 2021.2 | 2021.1 | 2020.2 | 2020.1 )
+
+## Past courses
+- Redes de Computadores (2019.2 | 2019.1)
+- Computação Urbana (2019.1)
+- Análise de dados e experimentação científica
+- Probabilidade e Estatística
+

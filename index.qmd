@@ -25,13 +25,13 @@ Heitor Ramos is an associate Computer Science Professor currently working with t
 
 ## Education
 
-<i class="bi bi-mortarboard"></i> Federal University of Minas Gerais (UFMG), Belo Horizonte | Minas Gerais, BR
+<i class="bi bi-mortarboard"></i> Federal University of Minas Gerais (UFMG), Belo Horizonte | Minas Gerais, BR |
 Ph.D in Computer Science | Mar 2008 - Ago 2012
 
-<i class="bi bi-mortarboard"></i> Federal University of Alagoas (UFAL), Maceió | Alagoas, BR
+<i class="bi bi-mortarboard"></i> Federal University of Alagoas (UFAL), Maceió | Alagoas, BR |
 M.Sc. in Computing Modeling | Mar 2004 - Jan 2006
 
-<i class="bi bi-mortarboard"></i> Federal University of Paraíba (UFPB), Campina Grande | Paraíba, BR
+<i class="bi bi-mortarboard"></i> Federal University of Paraíba (UFPB), Campina Grande | Paraíba, BR |
 B.Sc. in Electrical Engineering | Mar 1992 - Mar 1997
 
 ## Experience

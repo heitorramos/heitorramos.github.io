@@ -31,11 +31,11 @@ Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposiç
 
 | Aula | Data     | Conteúdo       |
 |:--:|:------:|:---------------|
-| 1|23/08/22|[Vetores, Matrizes, Espaços Vetoriais e Espaço Coluna](http://www.dcc.ufmg.br/~ramosh/aulas/ALC/Aula01.html)|
-|2|25/08/22| [Multiplicando e Fatorando Matrizes](http://www.dcc.ufmg.br/~ramosh/aulas/ALC/Aula02.html)|
-|3|30/08/22|[Quatro subspaços fundamentais](http://www.dcc.ufmg.br/~ramosh/aulas/ALC/Aula03.html)|
-|4|01/09/22|[Autovalores e Autovetores](http://www.dcc.ufmg.br/~ramosh/aulas/ALC/Aula04.html)|
-|5|06/09/22|[Matrizes ortogonais](http://www.dcc.ufmg.br/~ramosh/aulas/ALC/Aula05.html) |
+| 1|23/08/22|[Vetores, Matrizes, Espaços Vetoriais e Espaço Coluna](https://heitorramos.github.io/Slides_ALC/Aula01.html)|
+|2|25/08/22| [Multiplicando e Fatorando Matrizes](https://heitorramos.github.io/Slides_ALC/Aula02.html)|
+|3|30/08/22|[Quatro subspaços fundamentais](https://heitorramos.github.io/Slides_ALC/Aula03.html)|
+|4|01/09/22|[Autovalores e Autovetores](https://heitorramos.github.io/Slides_ALC/Aula04.html)|
+|5|06/09/22|[Matrizes ortogonais](https://heitorramos.github.io/Slides_ALC/Aula05.html) |
 |6|08/09/22|Normas de Vetores e Matrizes|
 |7|13/09/22|Introdução a Sistemas Lineares / Sistemas Triangulares|
 |8|15/09/22|Eliminação de Gauss|

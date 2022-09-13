@@ -32,13 +32,13 @@ Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposiç
 | Aula | Data     | Conteúdo       |
 |:--:|:------:|:---------------|
 | 1|23/08/22|[Vetores, Matrizes, Espaços Vetoriais e Espaço Coluna](https://heitorramos.github.io/Slides_ALC/Aula01.html)|
-|2|25/08/22| [Multiplicando e Fatorando Matrizes](https://heitorramos.github.io/Slides_ALC/Aula02.html)|
-|3|30/08/22|[Quatro subspaços fundamentais](https://heitorramos.github.io/Slides_ALC/Aula03.html)|
-|4|01/09/22|[Autovalores e Autovetores](https://heitorramos.github.io/Slides_ALC/Aula04.html)|
-|5|06/09/22|[Matrizes ortogonais](https://heitorramos.github.io/Slides_ALC/Aula05.html) |
-|6|08/09/22|[Normas de Vetores e Matrizes](https://heitorramos.github.io/Slides_ALC/Aula06.html)|
-|7|13/09/22|Introdução a Sistemas Lineares / Sistemas Triangulares|
-|8|15/09/22|Eliminação de Gauss|
+|2|25/08/22| [Vetores, Matrizes, Espaços Vetoriais e Espaço Coluna - II](https://heitorramos.github.io/Slides_ALC/Aula01.html)|
+|3|30/08/22|[Multiplicando e Fatorando Matrizes](https://heitorramos.github.io/Slides_ALC/Aula02.html)|
+|4|01/09/22|[Quatro subspaços fundamentais](https://heitorramos.github.io/Slides_ALC/Aula03.html)|
+|5|06/09/22|[Autovalores e Autovetores](https://heitorramos.github.io/Slides_ALC/Aula04.html) |
+|6|08/09/22|[Matrizes ortogonais](https://heitorramos.github.io/Slides_ALC/Aula05.html)|
+|7|13/09/22|[Normas de Vetores e Matrizes](https://heitorramos.github.io/Slides_ALC/Aula06.html)|
+|8|15/09/22|Introdução a Sistemas Lineares / Sistemas Triangulares / Eliminação de Gauss|
 |9|20/09/22|Decomposição LU|
 |10|22/09/22|Decomposição de Cholesky|
 |11|27/09/22|Decomposição Espectral e Matrizes Definidas Positivas e Semidefinidas|

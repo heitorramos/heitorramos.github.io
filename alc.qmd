@@ -38,11 +38,11 @@ Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposiç
 |5|06/09/22|[Autovalores e Autovetores](https://heitorramos.github.io/Slides_ALC/Aula04.html) |
 |6|08/09/22|[Matrizes ortogonais](https://heitorramos.github.io/Slides_ALC/Aula05.html)|
 |7|13/09/22|[Normas de Vetores e Matrizes](https://heitorramos.github.io/Slides_ALC/Aula06.html)|
-|8|15/09/22|Introdução a Sistemas Lineares / Sistemas Triangulares / Eliminação de Gauss|
-|9|20/09/22|Decomposição LU|
-|10|22/09/22|Decomposição de Cholesky|
-|11|27/09/22|Decomposição Espectral e Matrizes Definidas Positivas e Semidefinidas|
-|12|29/09/22|Uso da decomposição|
+|8|15/09/22|Normas de Vetores e Matrizes II|
+|9|20/09/22|Introdução a Sistemas Lineares / Sistemas Triangulares / Eliminação de Gauss|
+|10|22/09/22|Decomposição LU|
+|11|27/09/22|Decomposição de Cholesky|
+|12|29/09/22|Decomposição Espectral e Matrizes Definidas Positivas e Semidefinidas|
 |13|04/10/22|Métodos Iterativos Estacionários|
 |14|06/10/22|Métodos Iterativos Estacionários II|
 |15|11/10/22|Análise de erro na solução de sistemas|

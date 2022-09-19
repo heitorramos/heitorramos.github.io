@@ -36,29 +36,29 @@ Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposiç
 |3|30/08/22|[Multiplicando e Fatorando Matrizes](https://heitorramos.github.io/Slides_ALC/Aula02.html)|
 |4|01/09/22|[Quatro subspaços fundamentais](https://heitorramos.github.io/Slides_ALC/Aula03.html)|
 |5|06/09/22|[Autovalores e Autovetores](https://heitorramos.github.io/Slides_ALC/Aula04.html) |
-|6|08/09/22|[Matrizes ortogonais](https://heitorramos.github.io/Slides_ALC/Aula05.html)|
+|6|08/09/22|[Matrizes ortogonais <!-- colocar também matrizes positivas definidas-->](https://heitorramos.github.io/Slides_ALC/Aula05.html)|
 |7|13/09/22|[Normas de Vetores e Matrizes](https://heitorramos.github.io/Slides_ALC/Aula06.html)|
 |8|15/09/22|[Normas de Vetores e Matrizes II](https://heitorramos.github.io/Slides_ALC/Aula07.html)|
-|9|20/09/22|Introdução a Sistemas Lineares / Sistemas Triangulares / Eliminação de Gauss|
-|10|22/09/22|Decomposição LU|
-|11|27/09/22|Decomposição de Cholesky|
-|12|29/09/22|Decomposição Espectral e Matrizes Definidas Positivas e Semidefinidas|
-|13|04/10/22|Métodos Iterativos Estacionários|
-|14|06/10/22|Métodos Iterativos Estacionários II|
-|15|11/10/22|Análise de erro na solução de sistemas|
+|9|20/09/22|Matrizes Definidas Positivas e Semidefinidas/Page Rank|
+|10|22/09/22|Decomposição em valores Singulares|
+|11|27/09/22|SVD e aproximação de matrizes|
+|12|29/09/22|PCA I|
+|13|04/10/22|PCA II|
+|14|06/10/22|Removendo Viés de word Embeddings com PCA|
+|15|11/10/22|Regressão Linear|
 |16|13/10/22|[Prova 1]{.vermelho}|
-|17|18/10/22|Regressão Linear|
-|18|20/10/22|Regressão Linear II|
-|19|25/10/22|Regressão Linear Múltipla|
-|20|27/10/22|Mínimos quadrados e coeficiente de determinação|
-|21|01/11/22|Decomposição QR|
-|22|03/11/22|Ajuste via Decomposição em Valores Singulares|
-|23|08/11/22|Page Rank|
-|24|10/11/22|Decomposição em valores Singulares|
-|25|17/11/22|SVD e aproximação de matrizes|
-|26|22/11/22|PCA I|
-|27|24/11/22|PCA II|
-|28|29/11/22| Removendo Viés de word Embeddings com PCA|
+|17|18/10/22|Regressão Linear II|
+|18|20/10/22|Regressão Linear Múltipla|
+|19|25/10/22|Mínimos quadrados e coeficiente de determinação|
+|20|27/10/22|Decomposição QR|
+|21|01/11/22|Ajuste via Decomposição em Valores Singulares|
+|22|03/11/22|Introdução a Sistemas Lineares / Sistemas Triangulares / Eliminação de Gauss|
+|23|08/11/22|Decomposição LU|
+|24|10/11/22|Decomposição de Cholesky|
+|25|17/11/22|Decomposição Espectral|
+|26|22/11/22|Métodos Iterativos Estacionários|
+|27|24/11/22|Métodos Iterativos Estacionários II|
+|28|29/11/22|Análise de erro na solução de sistemas|
 |29|01/12/22|[Prova 2]{.vermelho}|
 |30|06/12/22|Prova suplementar|
 |31|13/12/22|Exame Especial|

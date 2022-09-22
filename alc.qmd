@@ -39,7 +39,7 @@ Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposiç
 |6|08/09/22|[Matrizes ortogonais <!-- colocar também matrizes positivas definidas-->](https://heitorramos.github.io/Slides_ALC/Aula05.html)|
 |7|13/09/22|[Normas de Vetores e Matrizes](https://heitorramos.github.io/Slides_ALC/Aula06.html)|
 |8|15/09/22|[Normas de Vetores e Matrizes II](https://heitorramos.github.io/Slides_ALC/Aula07.html)|
-|9|20/09/22|[Matrizes Definidas Positivas e Semidefinidas](https://heitorramos.github.io/Slides_ALC/Aula08.html)/Page Rank|
+|9|20/09/22|[Matrizes Definidas Positivas e Semidefinidas](https://heitorramos.github.io/Slides_ALC/Aula08.html)/[Page Rank](https://heitorramos.github.io/Slides_ALC/Aula09.html)|
 |10|22/09/22|Decomposição em valores Singulares|
 |11|27/09/22|SVD e aproximação de matrizes|
 |12|29/09/22|PCA I|

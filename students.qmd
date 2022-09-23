@@ -2,7 +2,7 @@
 title: "Students"
 ---
 
-## Current Graduate Students
+## Current Students
 
 :::{.callout-note icon="false"}
 ## Ph.D Candidate
@@ -20,7 +20,7 @@ title: "Students"
 :::
 
 :::{.callout-note icon="false"}
-## Current Undergrad Students
+## Undergrad Students
 - Marco Tulio de Pinho Tavares Tristao
 - Rafaela de Fatima Silva Alexandre
 :::

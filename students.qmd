@@ -4,26 +4,36 @@ title: "Students"
 
 ## Current Graduate Students
 
-#### Ph.D Candidate
+:::{.callout-note icon="false"}
+## Ph.D Candidate
 - Isadora Cardoso Pereira da Silva 
 - Pedro Henrique de Souza Barros 
 - Eduarda Tatiane Caetano Chagas 
 - Ekler Paulino de Mattos 
+:::
 
-#### M.Sc Candidate
+:::{.callout-note icon="false"}
+## M.Sc Candidate
 - Diego Haji Carvalho Campos
 - Giovanna Ávila Riqueti
 - Alvino Lessa de Lima Júnior
+:::
 
+:::{.callout-note icon="false"}
 ## Current Undergrad Students
 - Marco Tulio de Pinho Tavares Tristao
+- Rafaela de Fatima Silva Alexandre
+:::
 
 ## Past Graduate Students
 
-#### Ph.D
+:::{.callout-note icon="false"}
+## Ph.D
 - João Batista Borges Neto
+:::
 
-#### M.Sc
+:::{.callout-note icon="false"}
+## M.Sc
 - Eduarda Tatiane Caetano Chagas
 - Pedro Henrique Silva Souza Barros
 - Isadora Cardoso Pereira da Silva
@@ -34,11 +44,12 @@ title: "Students"
 - Thiago Montenegro Uchôa
 - Alyson Leandro Costa Oliveira
 - Eduardo Mucelli Rezende de Oliveira
-
+:::
 
 ## Past Undergrad Students 
 
-#### Scientific Research
+:::{.callout-note icon="false"}
+## Scientific Research
 - Morgana Gabi Nascimento Ferreira Souza Gomes 
 - Ananda de Oliveira Lopes
 - Igor Patricio dos Santos
@@ -54,8 +65,10 @@ title: "Students"
 - Bruno Gabriel Cavalcante Lima
 - Rebeca Buarque de Araujo Barros
 - Ana Geórgia de Souza Silva Gama Pereira
+:::
 
-#### Bachelor Monography
+:::{.callout-note icon="false"}
+## Bachelor Monography
 - Isadora Cardoso Pereira da Silva
 - Vilker Tenório Cabral Lobo
 - Wesley Lino Albuquerque da Silva
@@ -72,3 +85,4 @@ title: "Students"
 - Marcelo Queiroz de Assis Oliveira
 - Sidney Pontes Viana
 - Fábio José Rodrigues Pinheiro
+:::

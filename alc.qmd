@@ -42,7 +42,7 @@ Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposiç
 |9|20/09/22|[Matrizes Definidas Positivas e Semidefinidas](https://heitorramos.github.io/Slides_ALC/Aula08.html)/[Page Rank](https://heitorramos.github.io/Slides_ALC/Aula09.html)|
 |10|22/09/22|[Decomposição em valores Singulares](https://heitorramos.github.io/Slides_ALC/Aula10.html)|
 |11|27/09/22|[SVD e aproximação de matrizes](https://heitorramos.github.io/Slides_ALC/Aula11.html)|
-|12|29/09/22|PCA I|
+|12|29/09/22|[PCA I](https://heitorramos.github.io/Slides_ALC/Aula12.html)|
 |13|04/10/22|PCA II|
 |14|06/10/22|Removendo Viés de word Embeddings com PCA|
 |15|11/10/22|Regressão Linear|

@@ -39,18 +39,18 @@ Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposiç
 |6|08/09/22|[Matrizes ortogonais <!-- colocar também matrizes positivas definidas-->](https://heitorramos.github.io/Slides_ALC/Aula05.html)|
 |7|13/09/22|[Normas de Vetores e Matrizes](https://heitorramos.github.io/Slides_ALC/Aula06.html)| 
 |8|15/09/22|[Normas de Vetores e Matrizes II](https://heitorramos.github.io/Slides_ALC/Aula07.html)|
-|9|20/09/22|[Matrizes Definidas Positivas e Semidefinidas](https://heitorramos.github.io/Slides_ALC/Aula08.html)/[Page Rank](https://heitorramos.github.io/Slides_ALC/Aula09.html)|
-|10|22/09/22|[Decomposição em valores Singulares](https://heitorramos.github.io/Slides_ALC/Aula10.html)|
-|11|27/09/22|[SVD e aproximação de matrizes](https://heitorramos.github.io/Slides_ALC/Aula11.html)|
-|12|29/09/22|[PCA I](https://heitorramos.github.io/Slides_ALC/Aula12.html)|
-|13|04/10/22|PCA II|
-|14|06/10/22|Removendo Viés de word Embeddings com PCA|
-|15|11/10/22|Regressão Linear|
-|16|13/10/22|[Prova 1]{.vermelho}|
-|17|18/10/22|Regressão Linear II|
+|9|20/09/22|[Matrizes Definidas Positivas e Semidefinidas](https://heitorramos.github.io/Slides_ALC/Aula08.html)|
+|10|22/09/22|[Page Rank](https://heitorramos.github.io/Slides_ALC/Aula09.html)|
+|11|27/09/22|[Page Rank II](https://heitorramos.github.io/Slides_ALC/Aula09.html)|
+|12|29/09/22|[SVD e aproximação de matrizes](https://heitorramos.github.io/Slides_ALC/Aula11.html)|
+|13|04/10/22|[Decomposição em valores Singulares](https://heitorramos.github.io/Slides_ALC/Aula10.html)|
+|14|06/10/22|[Decomposição em valores Singulares II](https://heitorramos.github.io/Slides_ALC/Aula10.html)|
+|15|11/10/22|[PCA I](https://heitorramos.github.io/Slides_ALC/Aula12.html)|
+|16|13/10/22|[PCA II](https://heitorramos.github.io/Slides_ALC/Aula13.html)/[Remoção de viés com PCA](https://heitorramos.github.io/Slides_ALC/Aula14.html)|
+|17|18/10/22|Regressão Linear|
 |18|20/10/22|Regressão Linear Múltipla|
-|19|25/10/22|Mínimos quadrados e coeficiente de determinação|
-|20|27/10/22|Decomposição QR|
+|19|25/10/22|[Prova 1]{.vermelho}|
+|20|27/10/22|Mínimos quadrados e coeficiente de determinação/Decomposição QR|
 |21|01/11/22|Ajuste via Decomposição em Valores Singulares|
 |22|03/11/22|Introdução a Sistemas Lineares / Sistemas Triangulares / Eliminação de Gauss|
 |23|08/11/22|Decomposição LU|

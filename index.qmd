@@ -3,6 +3,7 @@ title: "Biography"
 about:
   template: solana
   image: imgs/profile.jpg
+  image-shape: round
   links:
     - text: <i class="ai ai-lattes" role="img"></i> Lattes CV
       href: http://lattes.cnpq.br/4978869867640619      

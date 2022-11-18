@@ -53,9 +53,9 @@ Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposiç
 |20|27/10/22|[Decomposição QR/Ajuste via Decomposição em Valores Singulares](https://heitorramos.github.io/Slides_ALC/Aula17.html)|
 |21|01/11/22|[Introdução a Sistemas Lineares / Sistemas Triangulares / Eliminação de Gauss](https://heitorramos.github.io/Slides_ALC/Aula18.html)|
 |23|03/11/22|[Prova 1]{.vermelho}|
-|22|08/11/22|[Decomposição LU e Cholesky](https://heitorramos.github.io/Slides_ALC/Aula19.html))|
-|24|10/11/22|Métodos Iterativos Estacionários (Jacobi)|
-|25|17/11/22|Métodos Iterativos Estacionários (Gauss Seidel)/ Análise de convergência|
+|22|08/11/22|[Decomposição LU e Cholesky](https://heitorramos.github.io/Slides_ALC/Aula19.html)|
+|24|10/11/22|[Métodos Iterativos Estacionários (Jacobi e Gauss Seidel)](https://heitorramos.github.io/Slides_ALC/Aula20.html)|
+|25|17/11/22|Métodos Iterativos Estacionários - Análise de convergência|
 |26|22/11/22|Sistema linear retangular|
 |27|24/11/22|Análise de erro na solução de sistemas|
 |28|29/11/22|Cálculo de Autovalores|

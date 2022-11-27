@@ -58,7 +58,7 @@ Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposiç
 |24|17/11/22|[Decomposição Cholesky)](https://heitorramos.github.io/Slides_ALC/Aula19.html)|
 |25|22/11/22|[Métodos Iterativos Estacionários - Jacobi](https://heitorramos.github.io/Slides_ALC/Aula20.html)|
 |x|24/11/22|Jogo do Brasil|
-|26|29/11/22|[Métodos Iterativos Estacionários - Gauss Seidel e Sobre Relaxação Sucessiva](https://heitorramos.github.io/Slides_ALC/Aula20.html)|
+|26|29/11/22|[Métodos Iterativos Estacionários - Gauss Seidel e Sobre-Relaxação Sucessiva](https://heitorramos.github.io/Slides_ALC/Aula20.html)|
 |27|01/12/22|Métodos Iterativos Estacionários - Análise de Convergência|
 |28|02/12/22|Aula reposição: Análise de Erros na Solução de Sistemas Lineares|
 |29|08/12/22|[Prova 2]{.vermelho}|

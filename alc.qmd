@@ -60,7 +60,7 @@ Eliminação Gaussiana. Decomposição LU. Decomposição espectral. Decomposiç
 |x|24/11/22|Jogo do Brasil|
 |26|29/11/22|[Métodos Iterativos Estacionários - Gauss Seidel e Sobre-Relaxação Sucessiva](https://heitorramos.github.io/Slides_ALC/Aula20.html)|
 |27|01/12/22|[Métodos Iterativos Estacionários - Análise de Convergência](https://heitorramos.github.io/Slides_ALC/Aula21.html)|
-|28|06/12/22|Análise de Erros na Solução de Sistemas Lineares|
+|28|06/12/22|[Análise de Erros na Solução de Sistemas Lineares](https://heitorramos.github.io/Slides_ALC/Aula22.html)|
 |29|08/12/22|[Prova 2]{.vermelho}|
 |30|15/12/22|Prova Suplementar|
 |30|20/12/22|Exame Especial|

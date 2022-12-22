@@ -1,5 +1,5 @@
 ---
-title: "Biography"
+title: ""
 about:
   template: solana
   image: imgs/profile.jpg

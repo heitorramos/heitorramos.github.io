@@ -17,6 +17,7 @@ title: "Students"
 - Diego Haji Carvalho Campos
 - Giovanna Ávila Riqueti
 - Alvino Lessa de Lima Júnior
+- Túlio Nunes Polido Lopes
 :::
 
 :::{.callout-note icon="false"}

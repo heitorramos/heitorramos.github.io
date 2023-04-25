@@ -44,7 +44,7 @@ The deparment of Computer Science of the Universidade Federal de Minas Gerais is
 
 <i class="bi bi-asterisk"></i> **Federal University of Alagoas, BR (UFAL) | Associate Professor of Computer Science |  2012 - 2019**
 
-I taught classes on Data Analysis, Computer Networks, Statistics, Discrete Mathematics and Analysis of Algorithms, in graduate and undergraduate levels. I advised 7 graduate students and 16 undergrad projects. I was the dean of the graduate program of Computing Modeling for 1 year and the vice-president of the Computing Institute (IC/UFAL) for 1 year. I was involved in the approval of US$ 600K in projects funded by research agencies in Brazil.
+I taught classes on Data Analysis, Computer Networks, Statistics, Discrete Mathematics and Analysis of Algorithms in graduate and undergraduate levels. I advised 7 graduate students and 16 undergrad projects. I was the dean of the graduate program of Computing Modeling for 1 year and the vice-president of the Computing Institute (IC/UFAL) for 1 year. I was involved in the approval of US$ 600K in projects funded by research agencies in Brazil.
 
 <i class="bi bi-asterisk"></i> **Paradise Laboratory - Ottawa University, CA | Ph.D Intern | 2010 - 2011**
 

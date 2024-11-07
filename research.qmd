@@ -6,9 +6,10 @@ title: "Research"
 
 - Federated Learning
 - Internet of Things
+- Machine Learning
+- Time Series Mining
 - Sensor networks (WSN)
 - Urban Computing
-- Time Series Mining
 
 ### Publications
 Check my updated publication list on

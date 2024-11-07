@@ -1,7 +1,7 @@
 ---
 title: ""
-about: 
-  template: solana
+about:
+  template: trestles
   image: imgs/profile.jpg
   image-shape: round
   links:

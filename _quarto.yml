@@ -3,8 +3,10 @@ project:
   output-dir: docs
 website:
   favicon: imgs/favicon.jpeg
-  title: "Heitor Ramos"
+  title: "Heitor S. Ramos"
+  # search: true
   navbar:
+    logo: imgs/logo.png
     left:
       - href: index.qmd
         text: Home

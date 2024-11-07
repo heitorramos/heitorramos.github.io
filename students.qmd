@@ -15,15 +15,15 @@ title: "Students"
 :::{.callout-note icon="false"}
 ## M.Sc Candidate
 - Diego Haji Carvalho Campos
-- Giovanna Ávila Riqueti
-- Alvino Lessa de Lima Júnior
 - Túlio Nunes Polido Lopes
 :::
 
 :::{.callout-note icon="false"}
 ## Undergrad Students
-- Marco Tulio de Pinho Tavares Tristao
-- Rafaela de Fatima Silva Alexandre
+- Rodrigo Pierre Fernandes Felizardo
+- Gabriel de Souza Gomes
+- Izabela Esber Xavier
+- Manuela Monteiro Fernandes de Oliveira
 :::
 
 ## Past Graduate Students
@@ -35,6 +35,7 @@ title: "Students"
 
 :::{.callout-note icon="false"}
 ## M.Sc
+- Giovanna Ávila Riqueti
 - Eduarda Tatiane Caetano Chagas
 - Pedro Henrique Silva Souza Barros
 - Isadora Cardoso Pereira da Silva
@@ -51,6 +52,8 @@ title: "Students"
 
 :::{.callout-note icon="false"}
 ## Scientific Research
+- Marco Tulio de Pinho Tavares Tristao
+- Rafaela de Fatima Silva Alexandre
 - Morgana Gabi Nascimento Ferreira Souza Gomes 
 - Ananda de Oliveira Lopes
 - Igor Patricio dos Santos

@@ -32,7 +32,7 @@ website:
           href: https://www.linkedin.com/in/heitorsramos/
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: 
       - styles.css
       - academicons.css

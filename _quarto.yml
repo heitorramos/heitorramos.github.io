@@ -21,15 +21,15 @@ website:
       center: "powered by [quarto](https://quarto.org)"
       right:
         - text: <i class="ai ai-google-scholar" role="img"></i>
-          href: https://scholar.google.de/citations?user=MFlgHdcAAAAJ&hl=en
+          href: https://scholar.google.com.br/citations?user=j2AOTsAAAAAJ&hl=en
         - text: <i class="ai ai-orcid" role="img"></i>
-          href: https://orcid.org/0000-0003-2952-4812
+          href:  https://orcid.org/0000-0003-4523-6466
         - text: <i class="ai ai-researcherid" role="img"></i> 
           href: https://www.webofscience.com/wos/author/record/C-7790-2009 
         - text: <i class="ai ai-lattes" role="img"></i>
           href: http://lattes.cnpq.br/4978869867640619
-        - icon: twitter
-          href: https://twitter.com/schochastics
+        # - icon: twitter
+        #   href: https://twitter.com/schochastics
         - icon: linkedin
           href: https://www.linkedin.com/in/heitorsramos/
 format:

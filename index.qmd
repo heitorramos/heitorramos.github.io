@@ -21,7 +21,7 @@ about:
     #   text: twitter
     #   href: https://twitter.com/heitor_ramos
 ---
-
+ 
 Heitor Ramos is an associate Computer Science Professor currently working with the Federal University of Minas Gerais, Brazil, with 10+ years of experience in teaching Computer Science classes, advising graduate students, and coordinating R\&D projects. His main research interests are  Federated Learning, Data Analysis for the Internet of Things, Sensor Networks, Social Networks, and Urban Computing applications.  He has been an active member of the scientific community, where he published 70+ scientific papers in top-class conferences and periodicals and 1 USPTO patent. He also has been advising 10+ graduate students and 16+ undergrad projects.
 
 

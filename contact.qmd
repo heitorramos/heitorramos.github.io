@@ -11,9 +11,6 @@ about:
       href: https://orcid.org/0000-0003-4523-6466
     - text: <i class="ai ai-lattes" role="img"></i> Lattes CV
       href: http://lattes.cnpq.br/4978869867640619 
-    # - icon: twitter
-    #   text: Twitter
-    #   href: https://twitter.com/schochastics
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/heitorsramos/

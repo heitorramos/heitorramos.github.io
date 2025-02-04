@@ -18,7 +18,7 @@ about:
       text: Linkedin
       href: https://www.linkedin.com/in/heitorsramos/
 ---
-
+ 
 
 <i class="bi bi-envelope"></i> Av. Antônio Carlos 6627 - Prédio do ICEx - Pampulha, Belo Horizonte, MG 31270-010
 

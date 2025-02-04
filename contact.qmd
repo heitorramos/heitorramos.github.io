@@ -6,14 +6,14 @@ about:
   image: imgs/contact.jpeg
   links:
     - text: <i class="ai ai-google-scholar" role="img"></i> Google Scholar
-      href: https://scholar.google.de/citations?user=MFlgHdcAAAAJ&hl=en
+      href: https://scholar.google.com.br/citations?user=j2AOTsAAAAAJ&hl=en
     - text: <i class="ai ai-orcid" role="img"></i> OrcID
-      href: https://orcid.org/0000-0003-2952-4812
+      href: https://orcid.org/0000-0003-4523-6466
     - text: <i class="ai ai-lattes" role="img"></i> Lattes CV
-      href: http://lattes.cnpq.br/4978869867640619
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/schochastics
+      href: http://lattes.cnpq.br/4978869867640619 
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/schochastics
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/heitorsramos/

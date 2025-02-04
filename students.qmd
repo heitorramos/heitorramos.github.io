@@ -9,7 +9,6 @@ title: "Students"
 - Isadora Cardoso Pereira da Silva 
 - Pedro Henrique de Souza Barros 
 - Eduarda Tatiane Caetano Chagas 
-- Ekler Paulino de Mattos 
 :::
 
 :::{.callout-note icon="false"}
@@ -30,6 +29,7 @@ title: "Students"
 
 :::{.callout-note icon="false"}
 ## Ph.D
+- Ekler Paulino de Mattos 
 - João Batista Borges Neto
 :::
 

@@ -1,10 +1,10 @@
 ---
 title: ""
 about:
-  template: trestles
+  template: solana
   image: imgs/profile.jpg
-  image-shape: round
-  image-width: 30%
+  # image-shape: round
+  image-width: 40%
   links:
     - text: <i class="ai ai-lattes" role="img"></i> Lattes CV
       href: http://lattes.cnpq.br/4978869867640619      
